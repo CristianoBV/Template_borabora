@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BoraBora" title="#BoraBora" src="./screen/web.png" />
+    <img alt="BoraBora" title="#BoraBora" src="./screen/borabora.png" />
 </h1>
 
 <h4 align="center"> 
@@ -15,7 +15,7 @@ Projeto desenvolvido com Reactjs, header em video.
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Original.io" title="#Original.io" src="./screen/borabora.png" width="800px">
+  <img alt="BoraBora" title="#BoraBora" src="./screen/borabora.png" width="800px">
 </p>
 
 ## 🛠 Tecnologias
